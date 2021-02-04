@@ -33,7 +33,7 @@
 
 ---
 
-<summary>:zap: GitHub Stats</summary>
+<summary>💪 My GitHub Stats</summary>
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=K-Kyler&show_icons=true&hide_border=true" />
 
 [facebook]: https://www.facebook.com/quangkhai.005/
