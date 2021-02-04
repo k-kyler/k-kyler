@@ -2,7 +2,7 @@
 
 ## I'm a Fullstack Developer 🔥
 
--   ⚡ I'm very insterested in researching and finding out new things of how they can help me building my dream as a developer 😍
+-   💪 I'm very insterested in researching and finding out new things of how they can help me building my dream as a developer 😍
 -   💻 I'm currently learning everything to make a great and nice web application 😆
 
 ### Connect with me:
@@ -35,7 +35,7 @@
 ---
 
 <details>
-  <summary>💪 My GitHub Stats</summary>
+  <summary>⚡ My GitHub Stats</summary>
   <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=K-Kyler&show_icons=true&hide_border=true" />
 </details>
 
