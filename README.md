@@ -1,13 +1,13 @@
-### Hi, I'm Quang Khai - aka [Kkyler][mywebsite] 👋
+### Hi, I'm Quang Khai - aka Kkyler 👋
 
 ## I'm a Frontend Developer 🔥
 
--   💻 I'm currently learning everything to make a great and nice websites 😆
 -   ⚡ I'm very insterested in researching and finding out new things of how they can help me building my dream as a developer 😍
+-   💻 I'm currently learning everything to make a great and nice websites 😆
 
 ### Connect with me:
 
-[<img align="left" alt="Kkyler | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][https://www.facebook.com/quangkhai.005/]
+[<img align="left" alt="Kkyler | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Kkyler | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][khaiquang690@gmail.com]
 [<img align="left" alt="Kkyler | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
 [<img align="left" alt="Kkyler | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/quang-khai-bui-653b49150/]
@@ -35,3 +35,5 @@
 ---
 
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=K-Kyler&show_icons=true&hide_border=true" />
+
+[facebook]: https://www.facebook.com/quangkhai.005/
