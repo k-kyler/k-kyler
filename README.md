@@ -1,6 +1,6 @@
 ### Hi, I'm Quang Khai - aka Kkyler 👋
 
-## I'm a Fullstack Developer 🔥
+## I'm a Frontend Developer 🔥
 
 -   🔍 I'm very insterested in researching and finding out new things of how they can help me building my dream as a developer 😍
 -   💻 I'm currently learning everything to make a great and nice web application 😆
