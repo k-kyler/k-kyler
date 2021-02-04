@@ -8,7 +8,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Kkyler | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Kkyler | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][khaiquang690@gmail.com]
+[<img align="left" alt="Kkyler | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="Kkyler | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
 [<img align="left" alt="Kkyler | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/quang-khai-bui-653b49150/]
 
@@ -30,10 +30,10 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 <br />
-<br />
 
 ---
 
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=K-Kyler&show_icons=true&hide_border=true" />
 
 [facebook]: https://www.facebook.com/quangkhai.005/
+[gmail]: khaiquang690@gmail.com
