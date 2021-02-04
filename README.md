@@ -1,4 +1,4 @@
-### Hi, I'm Quang Khai - aka Kkyler 👋
+### Hi there, I'm Quang Khai - aka Kkyler 👋
 
 ## I'm a Frontend Developer 🔥
 
