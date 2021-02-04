@@ -8,7 +8,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Kkyler | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Kkyler | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<img align="left" alt="Kkyler | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 [<img align="left" alt="Kkyler | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -35,5 +35,4 @@
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=K-Kyler&show_icons=true&hide_border=true" />
 
 [facebook]: https://www.facebook.com/quangkhai.005/
-[instagram]: 
 [linkedin]: https://www.linkedin.com/in/quang-khai-bui-653b49150/
