@@ -42,4 +42,4 @@
 </details>
 
 [facebook]: https://www.facebook.com/quangkhai.005/
-[linkedin]: https://www.linkedin.com/in/quang-khai-bui-653b49150/
+[linkedin]: https://www.linkedin.com/in/imkhai/
