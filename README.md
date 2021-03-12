@@ -5,7 +5,7 @@
 -   🔍 I'm very interested in researching and finding out new things that may help me building my dream as a developer 😍
 -   💻 I'm currently learning everything to make a great and nice website and web application 😆
 
-### Connect with me:
+### Contact with me:
 
 [<img align="left" alt="Kkyler | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 <img align="left" alt="Kkyler | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
