@@ -40,7 +40,7 @@
 
 <details>
   <summary>⚡ My GitHub Stats</summary>
-  <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=K-Kyler&show_icons=true&hide_border=true" />
+  <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=K-Kyler&show_icons=true&hide_border=true&theme=dracula" />
 </details>
 
 [facebook]: https://www.facebook.com/quangkhai.005/
