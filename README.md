@@ -2,8 +2,8 @@
 
 ## I'm a Web Developer 🔥
 
--   🔍 I'm very interested in researching and finding out new things that may help me building my dream as a developer 😍
--   💻 I'm currently learning everything to make a great and nice website and web application 😆
+-   🔍 I'm very interested in researching and finding out new things that may help me building my dream as a web developer 😍
+-   💻 I'm currently learning everything to make a great and nice product 👍
 
 ### Contact with me:
 
