@@ -2,8 +2,7 @@
 
 ## I'm a Web Developer 🔥
 
--   🔍 I'm very interested in researching and finding out new things that may help me building my dream as a web developer 😍
--   💻 I'm currently learning everything to improve my skills for making nice websites and web applications 👍
+-   I love programming everything about web technologies, it make me feel great and inspired a lot. Moreover, it gives me passion, confidence and the reason why I started off my career as a Web Developer.
 
 ### Contact with me:
 
