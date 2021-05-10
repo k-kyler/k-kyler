@@ -3,6 +3,7 @@
 ## I'm a Web Developer 🔥
 
 -   I love programming everything about web technologies, it make me feel great and inspired a lot. Moreover, it gives me passion, confidence and the reason why I started off my career as a Web Developer.
+-   My responsibility when doing work is to make customers feel satisfied and happy.
 
 ### Contact with me:
 
