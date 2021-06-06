@@ -12,7 +12,7 @@ I love programming everything about web technologies, it make me feel great and 
 
 <br />
 
-### Spoken languages:
+### My spoken languages:
 - Vietnamese
 - English
 
