@@ -10,7 +10,7 @@ I love programming everything about web technologies, it make me feel great and 
 <!-- <img align="left" alt="Kkyler | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> -->
 [<img align="left" alt="Kkyler | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<!-- <br /> -->
+<br />
 
 ### Languages and Tools:
 
