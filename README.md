@@ -42,10 +42,10 @@ I love programming everything about web technologies, it make me feel great and 
 
 ---
 
-<details>
-  <summary>⚡ My GitHub Stats</summary>
+<!-- <details>
+  <summary>⚡ My GitHub Stats</summary> -->
   <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=K-Kyler&show_icons=true&hide_border=true&theme=react" />
-</details>
+<!-- </details> -->
 
 [facebook]: https://www.facebook.com/quangkhai.005/
 [linkedin]: https://www.linkedin.com/in/imkhai/
