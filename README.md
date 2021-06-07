@@ -44,12 +44,10 @@ I love programming everything about web technologies, it make me feel great and 
 
 <!-- <details>
   <summary>⚡ My GitHub Stats</summary> -->
-  <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=K-Kyler&show_icons=true&hide_border=true&theme=react" />
+  <img style="height: 20rem;" align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=K-Kyler&show_icons=true&hide_border=true&theme=react" />
 <!-- </details> -->
 
-<img align="right" alt="My Github Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-kyler&layout=compact" />
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-kyler&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<img style="height: 20rem;" align="left" alt="My Github Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-kyler&layout=compact" />
 
 [facebook]: https://www.facebook.com/quangkhai.005/
 [linkedin]: https://www.linkedin.com/in/imkhai/
