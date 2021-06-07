@@ -44,7 +44,7 @@ I love programming everything about web technologies, it make me feel great and 
 
 <!-- <details>
   <summary>⚡ My GitHub Stats</summary> -->
-  <img height="auto" width="40px" align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=K-Kyler&show_icons=true&hide_border=true&theme=react" />
+  <img height="auto" width="400px" align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=K-Kyler&show_icons=true&hide_border=true&theme=react" />
 <!-- </details> -->
 
 <br />
