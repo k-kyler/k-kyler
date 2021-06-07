@@ -51,7 +51,7 @@ I love programming everything about web technologies, it make me feel great and 
 
 ![Quang Khai's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-kyler&hide_border=true&show_icons=true&theme=react)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-kyler&layout=compact&theme=react)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-kyler&layout=compact&theme=react&hide_border=true)
 
 
 [facebook]: https://www.facebook.com/quangkhai.005/
