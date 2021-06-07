@@ -40,19 +40,18 @@ I love programming everything about web technologies, it make me feel great and 
 <br />
 <br />
 
----
+<!-- --- -->
 
 <!-- <details>
-  <summary>⚡ My GitHub Stats</summary> -->
-<!--   <img height="170px" align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=K-Kyler&show_icons=true&hide_border=true&theme=react" /> -->
-<!-- </details> -->
-
-<!-- <img height="170px" align="left" alt="My Github Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-kyler&layout=compact" /> -->
-
-![Quang Khai's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-kyler&hide_border=true&show_icons=true&theme=react)
+  <summary>⚡ My GitHub Stats</summary>
+  <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=K-Kyler&show_icons=true&hide_border=true&theme=react" />
+</details>
+ -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-kyler&layout=compact&theme=react&hide_border=true)
 
+### My Github stats
+![Quang Khai's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-kyler&hide_border=true&show_icons=true&theme=react)
 
 [facebook]: https://www.facebook.com/quangkhai.005/
 [linkedin]: https://www.linkedin.com/in/imkhai/
