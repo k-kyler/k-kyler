@@ -12,11 +12,11 @@ I love programming everything about web technologies, it make me feel great and 
 
 <br />
 
-### My spoken languages:
+### Spoken languages:
 - Vietnamese
 - English
 
-### Languages and tools:
+### Programming languages and tools:
 
 <!-- <img align="left" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> -->
@@ -51,7 +51,7 @@ I love programming everything about web technologies, it make me feel great and 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-kyler&layout=compact&theme=react&hide_border=true)
 
-### My Github stats
+### Github stats
 ![Quang Khai's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-kyler&hide_border=true&show_icons=true&theme=react)
 
 [facebook]: https://www.facebook.com/quangkhai.005/
