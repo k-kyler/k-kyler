@@ -54,8 +54,5 @@ I love programming everything about web technologies, it make me feel great and 
 ### Github stats
 ![Quang Khai's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-kyler&hide_border=true&show_icons=true&theme=react)
 
-### Wakatime stats
-![Quang Khai's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=k-kyler)
-
 [facebook]: https://www.facebook.com/quangkhai.005/
 [linkedin]: https://www.linkedin.com/in/imkhai/
