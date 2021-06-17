@@ -7,7 +7,6 @@ I love programming everything about web technologies, it make me feel great and 
 ### Contact with me:
 
 [<img align="left" alt="Kkyler | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Kkyler | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />][google]
 [<img align="left" alt="Kkyler | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -55,5 +54,4 @@ I love programming everything about web technologies, it make me feel great and 
 ![Quang Khai's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-kyler&hide_border=true&show_icons=true&theme=react)
 
 [facebook]: https://www.facebook.com/quangkhai.005/
-[google]: mailto:khaiquang690@gmail.com
 [linkedin]: https://www.linkedin.com/in/imkhai/
