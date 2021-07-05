@@ -1,4 +1,5 @@
 ### Hi there, I'm Quang Khai - aka k-kyler 👋
+![Profile View Counter](https://komarev.com/ghpvc/?username=k-kyler)
 
 ## I'm a Web Developer 🔥
 
