@@ -1,4 +1,4 @@
-<img width="100%" height="100px" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" />
+<img width="100%" height="400px" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" />
 
 ### Hi there, I'm Quang Khai - aka k-kyler 👋
 
