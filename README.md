@@ -1,4 +1,4 @@
-<img height="200px" src="https://cdn.dribbble.com/users/1396198/screenshots/4422089/code.gif" />
+<img height="300px" src="https://cdn.dribbble.com/users/17301/screenshots/3564585/late-night-coding.png" />
 
 ### Hi there, I'm Quang Khai - aka k-kyler 👋
 
