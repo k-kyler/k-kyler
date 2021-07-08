@@ -1,4 +1,4 @@
-<img height="400px" width="100%" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" />
+<img height="450px" width="100%" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" />
 
 ### Hi there, I'm Quang Khai - aka k-kyler 👋
 
@@ -6,18 +6,18 @@
 
 I love programming everything about web technologies, it make me feel great and inspired a lot. Moreover, it gives me passion, confidence and the reason why I started off my career as a Web Developer. I'm now primarily learning and developing at the front-end of web development.
 
-### Contact with me:
+### Contact with me
 
 [<img align="left" alt="Kkyler | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Kkyler | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
-### Spoken languages:
+### Spoken languages
 - Vietnamese
 - English
 
-### Programming languages and tools:
+### Programming languages and tools
 
 <!-- <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> -->
 <!-- <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> -->
