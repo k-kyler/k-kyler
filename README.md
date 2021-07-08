@@ -1,5 +1,3 @@
-<img height="350px" width="100%" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" />
-
 ### Hi there, I'm Quang Khai - aka k-kyler 👋
 
 ## I'm a Web Developer 🔥
