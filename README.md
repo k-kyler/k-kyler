@@ -15,9 +15,6 @@ I love programming everything about web technologies, it make me feel great and 
 - Vietnamese
 - English
 
-### CodePen
-https://codepen.io/k-kyler
-
 ### Programming languages and tools
 
 <!-- <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> -->
@@ -33,6 +30,7 @@ https://codepen.io/k-kyler
 <!--- <img align="left" alt="Figma" width="26px" src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" /> --->
 <img align="left" alt="Git" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="CodePen" width="30px" src="https://www.shareicon.net/data/2016/11/03/849433_codepen_512x512.png" />
 
 <br />
 <br />
@@ -53,3 +51,4 @@ https://codepen.io/k-kyler
 
 [facebook]: https://www.facebook.com/quangkhai.005/
 [linkedin]: https://www.linkedin.com/in/imkhai/
+[codepen]: https://codepen.io/k-kyler
