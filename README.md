@@ -15,8 +15,6 @@ I love programming everything about web technologies, it make me feel great and 
 - Vietnamese
 - English
 
-### [CodePen][codepen]
-
 ### Programming languages and tools
 
 <!-- <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> -->
@@ -49,6 +47,8 @@ I love programming everything about web technologies, it make me feel great and 
 
 ### Github stats
 ![Quang Khai's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-kyler&hide_border=true&show_icons=true&theme=react)
+
+### [My CodePen][codepen]
 
 [facebook]: https://www.facebook.com/quangkhai.005/
 [linkedin]: https://www.linkedin.com/in/imkhai/
