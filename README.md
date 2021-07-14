@@ -49,7 +49,7 @@ I love programming everything about web technologies, it make me feel great and 
 ![Quang Khai's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-kyler&hide_border=true&show_icons=true&theme=react)
 
 ### Self-achievement
-- Earn 100 DEV tokens from the Dev Airdrop for Github program 2021 by public contributions
+- Earn 100 DEV tokens from Dev Airdrop for Github program 2021 by public contributions
 
 [facebook]: https://www.facebook.com/quangkhai.005/
 [linkedin]: https://www.linkedin.com/in/imkhai/
