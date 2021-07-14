@@ -2,7 +2,7 @@
 
 <!-- ## I'm a Web Developer 🔥 -->
 
-I love programming everything about web technologies, it make me feel great and inspired a lot. Moreover, it gave me passion, motivation and the reason why I started off my career as a Web Developer. I'm now primarily learning and developing at the front-end of web development.
+I love programming everything about web technologies, it make me feel great and inspired a lot. Moreover, it gave me passion, motivation and the reason why I started off my career as a Web Developer. I'm now primarily learning and developing at the front-end of web development...
 
 ### Contact with me
 
