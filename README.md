@@ -1,4 +1,4 @@
-## Hi there, I'm Quang Khai - aka k-kyler 🔥
+## Hello world, I'm Quang Khai - aka k-kyler 🔥
 
 <!-- ## I'm a Web Developer 🔥 -->
 
