@@ -4,17 +4,17 @@
 
 I love programming everything about web technologies, it make me feel great and inspired a lot. Moreover, it gave me passion, motivation and the reason why I started off my career as a Web Developer. I'm now primarily learning and developing at the front-end of web development...
 
-### Spoken languages
+## Spoken languages
 - Vietnamese
 - English
 
-### Education
+## Education
 - Ton Duc Thang University, Vietnam (Software Engineering, B.E, 2018 - 2022)
 
-### Self-achievement
+## Self-achievement
 - Earn 100 DEV tokens from Dev Airdrop for Github program 2021 by public contributions
 
-### Programming languages and tools
+## Programming languages and tools
 
 <!-- <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> -->
 <!-- <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> -->
@@ -44,10 +44,10 @@ I love programming everything about web technologies, it make me feel great and 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-kyler&theme=react&hide_border=true&layout=compact)
 
-### Github stats
+## Github stats
 ![Quang Khai's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-kyler&hide_border=true&show_icons=true&theme=react)
 
-### Contact me
+## Contact me
 [<img align="left" alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png" />][facebook]
 [<img align="left" alt="LinkedIn" width="28px" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" />][linkedin]
 <br />
