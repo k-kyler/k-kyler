@@ -4,17 +4,17 @@
 
 I love programming everything about web technologies, it make me feel great and inspired a lot. Moreover, it gave me passion, motivation and the reason why I started off my career as a Web Developer. I'm now primarily learning and developing at the front-end of web development...
 
-### Education
-- Ton Duc Thang University, Vietnam (Software Engineering, B.E, 2018 - 2022)
+### Contact
+[<img align="left" alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png" />][facebook]
+[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" />][linkedin]
+<br />
 
 ### Spoken languages
 - Vietnamese
 - English
 
-### Contact
-[<img align="left" alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png" />][facebook]
-[<img align="left" alt="LinkedIn" width="28px" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" />][linkedin]
-<br />
+### Education
+- Ton Duc Thang University, Vietnam (Software Engineering, B.E, 2018 - 2022)
 
 ### Self-achievement
 - Earn 100 DEV tokens from Dev Airdrop for Github program 2021 by public contributions
