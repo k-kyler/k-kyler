@@ -1,13 +1,9 @@
 ## Hi there, I'm Quang Khai - aka k-kyler 🔥
 
-<!-- ## I'm a Web Developer 🔥 -->
-
-I love programming everything about web technologies, it make me feel great and inspired a lot. Moreover, it gave me passion, motivation and the reason why I started off my career as a Web Developer. I'm now primarily learning and developing at the front-end of web development...
-
-### Contact with me
-
 [<img align="left" alt="Kkyler | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Kkyler | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+I love programming everything about web technologies, it make me feel great and inspired a lot. Moreover, it gave me passion, motivation and the reason why I started off my career as a Web Developer. I'm now primarily learning and developing at the front-end of web development...
 
 <br />
 
