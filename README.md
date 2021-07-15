@@ -2,7 +2,9 @@
 
 [<img align="left" alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png" />][facebook]
 [<img align="left" alt="LinkedIn" width="28px" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" />][linkedin]
-<img style="display: flex; align-items: center" src="https://visitor-badge.glitch.me/badge?page_id=k-kyler.visitor-badge" />
+<div align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=k-kyler.visitor-badge" />
+</div>
 <br />
 
 I love programming everything about web technologies, it make me feel great and inspired a lot. Moreover, it gave me passion, motivation and the reason why I started off my career as a Web Developer. I'm now primarily learning and developing at the front-end of web development...
