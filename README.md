@@ -11,6 +11,9 @@ I love programming everything about web technologies, it make me feel great and 
 
 <br />
 
+### Education
+- Ton Duc Thang University, Vietnam (Software Engineering, B.E, 2018 - 2022)
+
 ### Spoken languages
 - Vietnamese
 - English
