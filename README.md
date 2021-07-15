@@ -4,11 +4,6 @@
 
 I love programming everything about web technologies, it make me feel great and inspired a lot. Moreover, it gave me passion, motivation and the reason why I started off my career as a Web Developer. I'm now primarily learning and developing at the front-end of web development...
 
-### Contact me
-[<img align="left" alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png" />][facebook]
-[<img align="left" alt="LinkedIn" width="28px" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" />][linkedin]
-<br />
-
 ### Spoken languages
 - Vietnamese
 - English
@@ -51,6 +46,11 @@ I love programming everything about web technologies, it make me feel great and 
 
 ### Github stats
 ![Quang Khai's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-kyler&hide_border=true&show_icons=true&theme=react)
+
+### Contact me
+[<img align="left" alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png" />][facebook]
+[<img align="left" alt="LinkedIn" width="28px" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" />][linkedin]
+<br />
 
 [facebook]: https://www.facebook.com/quangkhai.005/
 [linkedin]: https://www.linkedin.com/in/imkhai/
