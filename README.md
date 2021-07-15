@@ -1,20 +1,8 @@
 ## Hi there, I'm Quang Khai - aka k-kyler 🔥
 
-<table>
-  <tr>
-    <td vlign="center">
-      [<img align="left" alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200pxFacebook_Logo_%282019%29.png" />][facebook]
-    </td>
-    
-    <td vlign="center">
-      [<img align="left" alt="LinkedIn" width="28px" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" />][linkedin]    
-    </td>
-    
-    <td vlign="center">
-      <img align="left" src="https://visitor-badge.glitch.me/badge?page_id=k-kyler.visitor-badge" />      
-    </td>
-  </tr>
-</table>
+[<img align="left" alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200pxFacebook_Logo_%282019%29.png" />][facebook]
+[<img align="left" alt="LinkedIn" width="28px" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" />][linkedin]    
+<img align="left" src="https://visitor-badge.glitch.me/badge?page_id=k-kyler.visitor-badge" />      
 
 <br />
 
