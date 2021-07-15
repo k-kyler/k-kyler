@@ -50,9 +50,9 @@ I love programming everything about web technologies, it make me feel great and 
 ### Contact me
 [<img align="left" alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png" />][facebook]
 [<img align="left" alt="LinkedIn" width="28px" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" />][linkedin]
-[<img align="left" alt="Gmail" width="28px" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" />][gmail]
+[<img align="left" alt="Gmail" width="30px" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" />][gmail]
 <br />
 
 [facebook]: https://www.facebook.com/quangkhai.005/
 [linkedin]: https://www.linkedin.com/in/imkhai/
-[gmail] mailto:khaiquang690@gmail.com
+[gmail]: mailto:khaiquang690@gmail.com
