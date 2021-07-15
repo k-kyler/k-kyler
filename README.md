@@ -1,8 +1,21 @@
 ## Hi there, I'm Quang Khai - aka k-kyler 🔥
 
-[<img align="top" alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png" />][facebook]
-[<img align="top" alt="LinkedIn" width="28px" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" />][linkedin]
-<img align="top" src="https://visitor-badge.glitch.me/badge?page_id=k-kyler.visitor-badge" />
+<table>
+  <tr>
+    <td vlign="center">
+      [<img align="left" alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200pxFacebook_Logo_%282019%29.png" />][facebook]
+    </td>
+    
+    <td vlign="center">
+      [<img align="left" alt="LinkedIn" width="28px" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" />][linkedin]    
+    </td>
+    
+    <td vlign="center">
+      <img align="left" src="https://visitor-badge.glitch.me/badge?page_id=k-kyler.visitor-badge" />      
+    </td>
+  </tr>
+</table>
+
 <br />
 
 I love programming everything about web technologies, it make me feel great and inspired a lot. Moreover, it gave me passion, motivation and the reason why I started off my career as a Web Developer. I'm now primarily learning and developing at the front-end of web development...
