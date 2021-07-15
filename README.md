@@ -49,7 +49,7 @@ I love programming everything about web technologies, it make me feel great and 
 
 ### Contact me
 [<img align="left" alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png" />][facebook]
-[<img align="left" alt="LinkedIn" width="28px" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" />][linkedin]
+[<img align="left" alt="LinkedIn" width="29px" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" />][linkedin]
 <br />
 
 [facebook]: https://www.facebook.com/quangkhai.005/
