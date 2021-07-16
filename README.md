@@ -50,8 +50,8 @@ I'm primarily learning and developing at the front-end of web development...
 ![Quang Khai's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-kyler&hide_border=true&show_icons=true&theme=react)
 
 ### Contact me
-[<img align="left" alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png" />][facebook]
-[<img align="left" alt="LinkedIn" width="29px" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" />][linkedin]
+[<img align="left" alt="Kkyler | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Kkyler | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
 [facebook]: https://www.facebook.com/quangkhai.005/
