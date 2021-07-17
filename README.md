@@ -6,15 +6,15 @@
 
 I'm primarily learning and developing at the front-end of web development...
 
-### Spoken languages
-- Vietnamese
-- English
-
 ### Education
 - Ton Duc Thang University, Vietnam (Software Engineering, B.E, 2018 - 2022)
 
 <!-- ### Self-achievement
 - Earn 100 DEV tokens from Dev Airdrop for Github program 2021 by public contributions -->
+
+### Spoken languages
+- Vietnamese
+- English
 
 ### Programming languages and tools
 
