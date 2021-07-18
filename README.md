@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=k-kyler.visitor-badge)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=k-kyler.visitor-badge) -->
 
 ## Hi there, I'm Quang Khai - aka k-kyler 🔥
 
