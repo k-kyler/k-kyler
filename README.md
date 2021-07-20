@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-kyler&label=Views&color=0e75b6&style=flat" alt="k-kyler" /> </p>
 
 <h1 align="left">Hi there, I'm Quang Khai - aka k-kyler 🔥</h1>
-<h3 align="left">I'm primarily learning and developing at the front-end of web development mostly with React, but also writing Node and some other cool things...</h3>
+<h3 align="left">I'm currently learning and developing everything about web development and technologies...</h3>
 
 <h3 align="left">See me on</h3>
 <p align="left">
