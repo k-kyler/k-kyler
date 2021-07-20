@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k-kyler&label=Views&color=0e75b6&style=flat" alt="k-kyler" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-kyler&label=Views&color=0e75b6&style=flat" alt="k-kyler" /> </p> -->
 
 <h1 align="left">Hi there, I'm Quang Khai - aka k-kyler 🔥</h1>
 <h3 align="left">I'm primarily learning and developing at the front-end of web development mostly with React, but also writing Node and some other cool things...</h3>
@@ -23,8 +23,8 @@
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="32px" src="https://img.icons8.com/color/452/mongodb.png" />
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="32" />
-<!-- <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> -->
-<!--- <img align="left" alt="Figma" width="26px" src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" /> --->
+<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<!--- <img align="left" alt="Figma" width="32px" src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" /> --->
 <img align="left" alt="Git" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
@@ -32,7 +32,7 @@
 <br />
 <br />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-kyler&show_icons=true&locale=en&layout=compact" alt="k-kyler" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-kyler&show_icons=true&locale=en&layout=compact" alt="k-kyler" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=k-kyler&show_icons=true&locale=en" alt="k-kyler" />
 
