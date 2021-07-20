@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Quang Khai - aka k-kyler 🔥</h1>
-<h3 align="center">I'm primarily learning and developing at the front-end of web development mostly with React, but also writing Node and some other cool things...</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-kyler&label=Views&color=0e75b6&style=flat" alt="k-kyler" /> </p>
+
+<h1 align="left">Hi there, I'm Quang Khai - aka k-kyler 🔥</h1>
+<h3 align="left">I'm primarily learning and developing at the front-end of web development mostly with React, but also writing Node and some other cool things...</h3>
 
 <h3 align="left">See me on</h3>
 <p align="left">
@@ -12,28 +12,28 @@
 <a href="https://www.hackerrank.com/kkyler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kkyler" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Programming Languages and Tools</h3>
-<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
-<img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Material UI" width="35px" src="https://opencollective-production.s3.us-west-1.amazonaws.com/ada636e0-395b-11ea-8ab7-b3f0317bbc7c.png" />
-<img align="left" alt="Bootstrap" width="35px" src="https://img.icons8.com/color/452/bootstrap.png" />
-<img align="left" src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="35" />
-<img align="left" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="35" />
-<img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="35px" src="https://img.icons8.com/color/452/mongodb.png" />
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="35" />
+<h3 align="left">Programming languages and tools</h3>
+<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="TypeScript" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
+<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Material UI" width="32px" src="https://opencollective-production.s3.us-west-1.amazonaws.com/ada636e0-395b-11ea-8ab7-b3f0317bbc7c.png" />
+<img align="left" alt="Bootstrap" width="32px" src="https://img.icons8.com/color/452/bootstrap.png" />
+<img align="left" src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="32" />
+<img align="left" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="32" />
+<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="MongoDB" width="32px" src="https://img.icons8.com/color/452/mongodb.png" />
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="32" />
 <!-- <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> -->
 <!--- <img align="left" alt="Figma" width="26px" src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" /> --->
-<img align="left" alt="Git" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
-<img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Git" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
+<img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
 <br />
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-kyler&show_icons=true&locale=en&layout=compact" alt="k-kyler" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-kyler&show_icons=true&locale=en&layout=compact" alt="k-kyler" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=k-kyler&show_icons=true&locale=en" alt="k-kyler" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=k-kyler&show_icons=true&locale=en" alt="k-kyler" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k-kyler&" alt="k-kyler" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k-kyler&" alt="k-kyler" />
