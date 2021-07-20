@@ -40,7 +40,6 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k-kyler&theme=react&hide_border=true" alt="k-kyler" /> -->
 
 <br />
-<br />
 
 | Github stats                      | Streak stats                      |
 |-----------------------------------|-----------------------------------|
