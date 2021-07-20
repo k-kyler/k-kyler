@@ -4,7 +4,7 @@
 
 <!-- I love programming everything about web technologies, it make me feel great and inspired a lot. Moreover, it gave me passion, motivation and the reason why I started off my career as a Web Developer. I'm now primarily learning and developing at the front-end of web development... -->
 
-I'm primarily learning and developing at the front-end of web development mostly with React, but also writing Node and some other things...
+I'm primarily learning and developing at the front-end of web development mostly with React, but also writing Node and some other cool things...
 
 ### Education
 - Ton Duc Thang University, Vietnam (Software Engineering, B.E, 2018 - 2022)
