@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-kyler&label=Views&color=0e75b6&style=flat" alt="k-kyler" /> </p>
 
-<h1 align="center">Hi there, I'm Quang Khai - aka k-kyler 🔥</h1>
-<h3 align="center">I'm currently learning and developing everything about web development and technologies...</h3>
+<h1 align="left">Hi there, I'm Quang Khai - aka k-kyler 🔥</h1>
+<h4 align="left">I'm currently learning and developing everything about web development and technologies...</h4>
 
 <h3 align="left">See me on</h3>
 <p align="left">
@@ -33,7 +33,11 @@
 <br />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-kyler&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="k-kyler" />
+
+### Github stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=k-kyler&show_icons=true&locale=en&theme=react&hide_border=true" alt="k-kyler" />
+
+### Streak stats
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k-kyler&theme=react&hide_border=true" alt="k-kyler" />
 
 <!-- | Top languages                     | Github stats                      | Streak stats                      |
