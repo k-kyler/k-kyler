@@ -1,9 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-kyler&label=Views&color=0e75b6&style=flat" alt="k-kyler" /> </p>
 
 <h1 align="left">Hi there, I'm Quang Khai - aka k-kyler 🔥</h1>
-<h4 align="left">I'm primarily learning and developing at the front-end of web development mostly with React, but also writing Node and some other cool things...</h3>
+<h3 align="left">I'm primarily learning and developing at the front-end of web development mostly with React, but also writing Node and some other cool things...</h3>
 
-<h3 align="left">See me on</h3>
+<h2 align="left">See me on</h2>
 <p align="left">
 <a href="https://codepen.io/k-kyler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="k-kyler" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imkhai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imkhai" height="30" width="40" /></a>
@@ -12,7 +12,7 @@
 <a href="https://www.hackerrank.com/kkyler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kkyler" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Programming languages and tools</h3>
+<h2 align="left">Programming languages and tools</h2>
 <img align="left" alt="JavaScript" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
 <img align="left" alt="React" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
