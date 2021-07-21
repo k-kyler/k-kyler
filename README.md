@@ -1,10 +1,9 @@
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-kyler&label=Views&color=0e75b6&style=flat" alt="k-kyler" /> </p> -->
-
 <h1 align="center">Hi there, I'm Quang Khai - aka k-kyler 🔥</h1>
 <p align="center">I'm currently learning and developing everything about web development and technologies...</p>
 
 <br />
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=k-kyler&label=Views&color=0e75b6&style=flat" alt="k-kyler" /> </p>
 <h3 align="left">See me on</h3>
 <p align="left">
 <a href="https://fb.com/quangkhai.005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="quangkhai.005" height="30" width="40" /></a>
@@ -26,7 +25,8 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="33" />
 <img align="left" alt="Node.js" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="33px" src="https://img.icons8.com/color/452/mongodb.png" />
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="33" />
+<img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="33" />
+<img align="left" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="33" />
 <img align="left" alt="Visual Studio Code" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <!--- <img align="left" alt="Figma" width="33px" src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" /> --->
 <img align="left" alt="Git" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
