@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Quang Khai - aka k-kyler 🔥</h1>
+<h1 align="center">Hi there 🔥, I'm Quang Khai - aka k-kyler</h1>
 <!-- <p align="left">I'm currently learning and developing everything about web development and technologies...</p> -->
 
 <br />
