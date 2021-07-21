@@ -34,12 +34,5 @@
 <br />
 <br />
 
-<!-- | Top languages                     | Github stats                      | -->
-<!-- |-----------------------------------|-----------------------------------| -->
-![](https://github-readme-stats.vercel.app/api/top-langs?username=k-kyler&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true)
-<br />
-<br />
-![](https://github-readme-stats.vercel.app/api?username=k-kyler&show_icons=true&locale=en&theme=react&hide_border=true) 
-<br />
-<br />
-![](https://github-readme-streak-stats.herokuapp.com/?user=k-kyler&theme=react&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=k-kyler&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true) ![](https://github-readme-stats.vercel.app/api?username=k-kyler&show_icons=true&locale=en&theme=react&hide_border=true) 
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=k-kyler&theme=react&hide_border=true) -->
