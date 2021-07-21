@@ -16,7 +16,7 @@
 
 <br />
 
-<h3 align="left">Programming Languages and Stats</h3>
+<h3 align="left">Programming languages and stats</h3>
 <img align="left" alt="JavaScript" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
 <img align="left" alt="React" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -46,7 +46,7 @@
 
 <br />
 
-| Github stats                      | Streak stats                      |
-|-----------------------------------|-----------------------------------|
-|![](https://github-readme-stats.vercel.app/api?username=k-kyler&show_icons=true&locale=en&theme=react&hide_border=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=k-kyler&theme=react&hide_border=true)
+<!-- | Github stats                      | Streak stats                      | -->
+<!-- |-----------------------------------|-----------------------------------| -->
+|![](https://github-readme-stats.vercel.app/api?username=k-kyler&show_icons=true&locale=en&theme=react&hide_border=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=k-kyler&theme=react&hide_border=true)
 
