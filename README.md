@@ -3,7 +3,7 @@
 
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k-kyler&label=Views&color=0e75b6&style=flat" alt="k-kyler" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-kyler&label=Views&color=0e75b6&style=flat" alt="k-kyler" /> </p> -->
 <h3 align="left">See me on</h3>
 <p align="left">
 <a href="https://fb.com/quangkhai.005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="quangkhai.005" height="30" width="40" /></a>
@@ -39,6 +39,12 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-kyler&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="k-kyler" />
 
 <br />
+
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 
 | Github stats                      | Streak stats                      |
 |-----------------------------------|-----------------------------------|
