@@ -40,7 +40,7 @@
 
 <br />
 
-<!-- | Github stats                      | Streak stats                      | -->
-<!-- |-----------------------------------|-----------------------------------| -->
-![](https://github-readme-stats.vercel.app/api?username=k-kyler&show_icons=true&locale=en&theme=react&hide_border=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=k-kyler&theme=react&hide_border=true)
+| Github stats                      | Streak stats                      |
+|-----------------------------------|-----------------------------------|
+|![](https://github-readme-stats.vercel.app/api?username=k-kyler&show_icons=true&locale=en&theme=react&hide_border=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=k-kyler&theme=react&hide_border=true)|
 
