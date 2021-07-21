@@ -1,9 +1,16 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=k-kyler&label=Views&color=0e75b6&style=flat" alt="k-kyler" /> </p>
+
 <h1 align="center">Hi there 👋, I'm Quang Khai - aka k-kyler</h1>
 <p align="center">I'm currently learning and developing everything about web development and technologies...</p>
 
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k-kyler&label=Views&color=0e75b6&style=flat" alt="k-kyler" /> </p>
+<p align="center">
+  <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="50%" />
+</p>
+
+<br/>
+
 <h3 align="left">See me on</h3>
 <p align="left">
 <a href="https://fb.com/quangkhai.005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="quangkhai.005" height="30" width="40" /></a>
