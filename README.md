@@ -1,12 +1,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-kyler&label=Views&color=0e75b6&style=flat" alt="k-kyler" /> </p>
 
 <h1 align="center">Hi there 👋, I'm Quang Khai - aka k-kyler</h1>
-<p align="center">I'm a passionate software engineer, currently learning and developing everything about web development and its cool technologies...</p>
+<p align="center">I'm a passionate software engineer, specializing in web development.</p>
 
 <br />
 
 <p align="center">
-  <img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="60%" />
+  <img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="50%" />
 </p>
 
 <br/>
