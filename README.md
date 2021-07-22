@@ -6,7 +6,7 @@
 <br />
 
 <p align="center">
-  <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="60%" />
+  <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="70%" />
 </p>
 
 <br/>
