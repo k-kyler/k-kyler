@@ -6,7 +6,7 @@
 <br />
 
 <p align="center">
-  <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="65%" />
+  <img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="60%" />
 </p>
 
 <br/>
