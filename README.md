@@ -6,7 +6,7 @@
 <br />
 
 <p align="center">
-  <img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="60%" />
+  <img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="50%" />
 </p>
 
 <br/>
