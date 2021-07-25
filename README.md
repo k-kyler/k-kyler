@@ -52,5 +52,5 @@
 
 <br />
 
-### Streak
-![](https://github-readme-streak-stats.herokuapp.com/?user=k-kyler&theme=react&hide_border=true)
+<!-- ### Streak -->
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=k-kyler&theme=react&hide_border=true) -->
