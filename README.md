@@ -3,13 +3,9 @@
 <h1 align="center">Hi there 👋, I'm Quang Khai - aka k-kyler</h1>
 <p align="center">I'm a passionate software engineer, currently working on web development field.</p>
 
-<br />
-
 <p align="center">
   <img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="55%" />
 </p>
-
-<br/>
 
 <h3 align="left">See me on</h3>
 <p align="left">
@@ -19,8 +15,6 @@
 <a href="https://codesandbox.com/k-kyler" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="k-kyler" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kkyler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kkyler" height="30" width="40" /></a>
 </p>
-
-<br />
 
 <h3 align="left">Programming languages and tools</h3>
 <img align="left" alt="JavaScript" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -41,10 +35,9 @@
 
 <br />
 <br />
+<br />
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=k-kyler&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true) 
-
-<br />
 
 ### Github stats
 ![](https://github-readme-stats.vercel.app/api?username=k-kyler&show_icons=true&locale=en&theme=react&hide_border=true) 
