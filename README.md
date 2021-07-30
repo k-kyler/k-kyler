@@ -51,11 +51,28 @@
 <details>
   <summary>🤟 Top Languages</summary>
   <img align="left" alt="Kkyler's Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-kyler&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
 </details>
 
 <details>
   <summary>⚡ GitHub Stats</summary>
   <img align="left" alt="Kkyler's Github stats" src="https://github-readme-stats.vercel.app/api?username=K-Kyler&show_icons=true&hide_border=true&theme=react" />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
 </details>
 
 <details>
