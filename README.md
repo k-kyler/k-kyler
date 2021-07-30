@@ -38,12 +38,27 @@
 <br />
 <br />
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=k-kyler&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true) 
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs?username=k-kyler&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true)  -->
 
-### Github stats
-![](https://github-readme-stats.vercel.app/api?username=k-kyler&show_icons=true&locale=en&theme=react&hide_border=true) 
+<!-- ### Github stats -->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=k-kyler&show_icons=true&locale=en&theme=react&hide_border=true)  -->
 
 <!-- <br /> -->
 
 <!-- ### Streak -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=k-kyler&theme=react&hide_border=true) -->
+
+<details>
+  <summary>🤟 Top Languages</summary>
+  <img align="left" alt="Kkyler's Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-kyler&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" />
+</details>
+
+<details>
+  <summary>⚡ GitHub Stats</summary>
+  <img align="left" alt="Kkyler's Github stats" src="https://github-readme-stats.vercel.app/api?username=K-Kyler&show_icons=true&hide_border=true&theme=react" />
+</details>
+
+<details>
+  <summary>🔥 Steak</summary>
+  <img align="left" alt="Kkyler's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=k-kyler&theme=react&hide_border=true" />
+</details>
