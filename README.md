@@ -77,6 +77,6 @@
 </details>
 
 <details>
-  <summary>🔥 Steak</summary>
+  <summary>🔥 Streak Stats</summary>
   <img align="left" alt="Kkyler's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=k-kyler&theme=react&hide_border=true" />
 </details>
