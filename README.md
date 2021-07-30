@@ -73,7 +73,6 @@
   <br />
   <br />
   <br />
-  <br />
 </details>
 
 <details>
