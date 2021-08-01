@@ -4,7 +4,7 @@
 <p align="center">I'm a passionate software engineer, currently working in web development.</p>
 
 <p align="center">
-  <img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="55%" />
+  <img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="60%" />
 </p>
 
 <h3 align="left">See me on</h3>
