@@ -1,14 +1,14 @@
-
-<h1 align="center">Hi there 👋, I'm Quang Khai - aka k-kyler</h1>
-<p align="center">I'm a passionate software engineer, currently working in web development.</p>
-
-<p align="center">
-  <img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="60%" />
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-kyler&label=Views&color=0e75b6&style=flat" alt="k-kyler" /> </p>
 
-- 🔭 I’m currently working on [Evochat](https://github.com/k-kyler/evochat)
+<h1 align="center">Hi there 👋, I'm Quang Khai - aka k-kyler</h1>
+
+<p align="center">
+  <img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="100%" />
+</p>
+
+- 🐬 I'm a passionate software engineer, currently working in web development
+
+- 🤔 I’m currently working on [Evochat](https://github.com/k-kyler/evochat)
 
 - 🌱 I’m currently learning **React, Angular and some other cool things**
 
