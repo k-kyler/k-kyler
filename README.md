@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k-kyler&label=Views&color=0e75b6&style=flat" alt="k-kyler" /> </p>
 
 <h1 align="center">Hi there 👋, I'm Quang Khai - aka k-kyler</h1>
 <p align="center">I'm a passionate software engineer, currently working in web development.</p>
@@ -7,12 +6,19 @@
   <img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="60%" />
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=k-kyler&label=Views&color=0e75b6&style=flat" alt="k-kyler" /> </p>
+
+- 🔭 I’m currently working on [Evochat](https://github.com/k-kyler/evochat)
+
+- 🌱 I’m currently learning **React, Angular and some other cool things**
+
 <h3 align="left">See me on</h3>
 <p align="left">
-<a href="https://fb.com/quangkhai.005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="quangkhai.005" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/imkhai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imkhai" height="30" width="40" /></a>
 <a href="https://codepen.io/k-kyler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="k-kyler" height="30" width="40" /></a>
+<a href="https://twitter.com/kkyler05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kkyler05" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/imkhai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imkhai" height="30" width="40" /></a>
 <a href="https://codesandbox.com/k-kyler" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="k-kyler" height="30" width="40" /></a>
+<a href="https://fb.com/quangkhai.005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="quangkhai.005" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kkyler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kkyler" height="30" width="40" /></a>
 </p>
 
@@ -39,7 +45,7 @@
 <br />
 
 <details>
-  <summary>Top Languages 🤟</summary>
+  <summary>🤟 Top Languages</summary>
   <img align="left" alt="Kkyler's Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-kyler&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" />
   <br />
   <br />
@@ -52,7 +58,7 @@
 </details>
 
 <details>
-  <summary>GitHub Stats ⚡</summary>
+  <summary>⚡ GitHub Stats</summary>
   <img align="left" alt="Kkyler's Github stats" src="https://github-readme-stats.vercel.app/api?username=K-Kyler&show_icons=true&hide_border=true&theme=react" />
   <br />
   <br />
@@ -67,6 +73,6 @@
 </details>
 
 <details>
-  <summary>Streak Stats 🔥</summary>
+  <summary>🔥 Streak Stats</summary>
   <img align="left" alt="Kkyler's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=k-kyler&theme=react&hide_border=true" />
 </details>
