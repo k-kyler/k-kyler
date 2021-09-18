@@ -7,10 +7,6 @@
   <img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="70%" />
 </p>
 
-- 🔭 I’m currently working on [Evochat](https://github.com/k-kyler/evochat)
-
-- 🌱 I’m currently learning **everything about front-end development and technologies**
-
 <h3 align="left">See me on</h3>
 <p align="left">
 <a href="https://codepen.io/k-kyler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="k-kyler" height="30" width="40" /></a>
