@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Evochat](https://github.com/k-kyler/evochat)
 
-- 🌱 I’m currently learning **React, Angular and some other cool things**
+- 🌱 I’m currently learning **everything about front-end development and technologies**
 
 <h3 align="left">See me on</h3>
 <p align="left">
