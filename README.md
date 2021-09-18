@@ -4,7 +4,7 @@
 <p align="center">I'm a passionate software engineer, currently working in web development.</p> 
 
 <p align="center">
-  <img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="100%" />
+  <img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="80%" />
 </p>
 
 - 🔭 I’m currently working on [Evochat](https://github.com/k-kyler/evochat)
