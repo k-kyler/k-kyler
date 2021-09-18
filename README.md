@@ -7,7 +7,7 @@
   <img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="100%" />
 </p>
 
-- 🤔 I’m currently working on [Evochat](https://github.com/k-kyler/evochat)
+- 🔭 I’m currently working on [Evochat](https://github.com/k-kyler/evochat)
 
 - 🌱 I’m currently learning **React, Angular and some other cool things**
 
