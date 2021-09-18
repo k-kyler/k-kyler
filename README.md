@@ -7,7 +7,7 @@
   <img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="70%" />
 </p>
 
-<h3 align="left">See me on</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://codepen.io/k-kyler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="k-kyler" height="30" width="40" /></a>
 <a href="https://twitter.com/kkyler05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kkyler05" height="30" width="40" /></a>
@@ -31,7 +31,7 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="33" />
 <img align="left" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" alt="netlify" width="33" />
 <img align="left" alt="Visual Studio Code" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<!--- <img align="left" alt="Figma" width="33px" src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" /> --->
+<img align="left" alt="Figma" width="33px" src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" />
 <img align="left" alt="Git" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 <img align="left" alt="Terminal" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
@@ -40,7 +40,8 @@
 <br />
 
 <details>
-  <summary>🤟 Top Languages</summary>
+  <summary><b>🤟 Top Languages</b></summary>
+  <br />
   <img align="left" alt="Kkyler's Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-kyler&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" />
   <br />
   <br />
@@ -53,7 +54,8 @@
 </details>
 
 <details>
-  <summary>⚡ GitHub Stats</summary>
+  <summary><b>⚡ GitHub Stats</b></summary>
+  <br />
   <img align="left" alt="Kkyler's Github stats" src="https://github-readme-stats.vercel.app/api?username=K-Kyler&show_icons=true&hide_border=true&theme=react" />
   <br />
   <br />
@@ -68,6 +70,7 @@
 </details>
 
 <details>
-  <summary>🔥 Streak Stats</summary>
+  <summary><b>🔥 Streak Stats</b></summary>
+  <br />
   <img align="left" alt="Kkyler's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=k-kyler&theme=react&hide_border=true" />
 </details>
