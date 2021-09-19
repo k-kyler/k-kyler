@@ -40,7 +40,9 @@
 <h3>Work stats</h3>
 
 <!--START_SECTION:waka-->
-![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=kkyler&hide_title=true&hide_border=true&langs_count=5)
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <details>
