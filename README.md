@@ -38,6 +38,9 @@
 </p>
 
 <h3>Work stats</h3>
+
+![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=kkyler&hide_title=true&hide_border=true&langs_count=5)
+
 <details>
   <summary><b>🤟 Top languages</b></summary>
   <img align="center" alt="Kkyler's Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-kyler&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" />
