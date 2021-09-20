@@ -45,6 +45,10 @@
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@kkyler&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+```text
+C#     1 hr 59 mins    ███████████████████████▓░   94.05 % 
+JSON   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+```
 <!--END_SECTION:waka-->
 
 <details>
