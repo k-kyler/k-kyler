@@ -42,7 +42,7 @@
 
 <h3>Weekly development breakdown</h3>
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@kkyler&v=2&show_icons=true&hide_border=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@kkyler&v=2&show_icons=true&hide_border=true&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--START_SECTION:waka-->
 ```text
