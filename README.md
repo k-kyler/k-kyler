@@ -8,29 +8,14 @@
 </p>
 
 <h3 align="left">Connect with me</h3>
-<p>
-  <a href="https://linkedin.com/in/imkhai">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-21a3e2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-   <a href="https://fb.com/quangkhai.005">
-    <img align="center" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-   <a href="https://twitter.com/kkyler05">
-    <img align="center" src="https://img.shields.io/badge/twitter-ffd400?style=for-the-badge&logo=twitter&logoColor=black" />
-  </a>
-  <a href="mailto:khaiquang690@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-d93025?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://codepen.io/k-kyler">
-    <img align="center" src="https://img.shields.io/badge/Codepen-white?style=for-the-badge&logo=codepen&logoColor=black" />
-  </a>
-  <a href="https://codesandbox.com/k-kyler">
-    <img src="https://img.shields.io/badge/Codesandbox-000?style=for-the-badge&logo=codesandbox&logoColor=white" align="center" />
-  </a>
-  <a href="https://www.hackerrank.com/Kkyler">
-    <img align="center" src="https://img.shields.io/badge/Hackerrank-39424e?style=for-the-badge&logo=hackerrank&logoColor=1ba94c" />
-  </a>
-</p>
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-21a3e2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imkhai)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/quangkhai.005)
+[![Twitter Badge](https://img.shields.io/badge/twitter-ffd400?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/kkyler05)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d93025?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaiquang690@gmail.com)
+[![Codepen Badge](https://img.shields.io/badge/Codepen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/k-kyler)
+[![Codesandbox Badge](https://img.shields.io/badge/Codesandbox-000?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.com/k-kyler)
+[![Hackerrank Badge](https://img.shields.io/badge/Hackerrank-39424e?style=for-the-badge&logo=hackerrank&logoColor=1ba94c)](https://www.hackerrank.com/Kkyler)
 
 <h3 align="left">Languages and tools</h3>
 <p>
@@ -53,7 +38,7 @@
   <img align="center" alt="Linux" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
   <img align="center" alt="Git" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
   <img align="center" alt="Terminal" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-</p>
+<!-- </p> -->
 
 <h3>Weekly development breakdown</h3>
 
