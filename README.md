@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-kyler&label=Views&color=0e75b6&style=flat" alt="k-kyler" /> </p>
 
-<h1 align="center">Hi there 👋, I'm Quang Khai - aka k-kyler</h1>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />, I'm Quang Khai - aka k-kyler</h1>
 <p align="center">I'm a passionate software developer, currently working in web development.</p> 
 
 <p align="center">
