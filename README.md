@@ -39,7 +39,7 @@
   <img align="center" alt="Linux" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
   <img align="center" alt="Git" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
   <img align="center" alt="Terminal" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<!-- </p> -->
+</p>
 
 <h3>Weekly development process</h3>
 
@@ -134,6 +134,6 @@ PHP                      1 repo              █░░░░░░░░░░�
 </details>
 
 <details>
-  <summary><b>🔥 Streak stats</b></summary>
+  <summary><b>💪 Streak stats</b></summary>
   <img align="center" alt="Kkyler's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=k-kyler&theme=react&hide_border=true" />
 </details>
