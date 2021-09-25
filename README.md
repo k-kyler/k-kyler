@@ -129,11 +129,15 @@ PHP                      1 repo              █░░░░░░░░░░�
 </details> -->
 
 <details>
+  <br />  
   <summary><b>⚡ GitHub stats</b></summary>
   <img align="center" alt="Kkyler's Github stats" src="https://github-readme-stats.vercel.app/api?username=K-Kyler&show_icons=true&hide_border=true&theme=react" />
-</details>
-
-<details>
-  <summary><b>💪 Streak stats</b></summary>
+  <br />
+  <br />
   <img align="center" alt="Kkyler's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=k-kyler&theme=react&hide_border=true" />
 </details>
+
+<!-- <details>
+  <summary><b>💪 Streak stats</b></summary>
+  <img align="center" alt="Kkyler's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=k-kyler&theme=react&hide_border=true" />
+</details> -->
