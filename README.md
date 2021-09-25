@@ -123,10 +123,10 @@ PHP                      1 repo              █░░░░░░░░░░�
  Last Updated on 25/09/2021
 <!--END_SECTION:waka-->
 
-<details>
+<!-- <details>
   <summary><b>🤟 Top languages</b></summary>
   <img align="center" alt="Kkyler's Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-kyler&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" />
-</details>
+</details> -->
 
 <details>
   <summary><b>⚡ GitHub stats</b></summary>
