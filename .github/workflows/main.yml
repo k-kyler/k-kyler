@@ -17,4 +17,4 @@ jobs:
           SHOW_LINES_OF_CODE: true
           SHOW_PROFILE_VIEWS: false
           SHOW_TIMEZONE: false
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          SHOW_PROJECTS: false
