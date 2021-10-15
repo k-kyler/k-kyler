@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-kyler&label=Views&color=0e75b6&style=flat" alt="k-kyler" /> </p>
 
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />, I'm Quang Khai - aka k-kyler</h1>
-<p align="center">I'm a passionate software developer, currently working in web development.</p> 
+<p align="center">I'm a passionate software developer, love developing front-end web with React.</p> 
 
 <p align="center">
   <img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="80%" />
@@ -40,7 +40,7 @@
   <img align="center" alt="Terminal" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </p>
 
-<h3>Weekly development process</h3>
+<h3>Weekly development breakdown</h3>
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-456735%20lines%20of%20code-blue)
