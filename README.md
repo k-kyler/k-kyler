@@ -115,6 +115,8 @@ PHP                      1 repo              █░░░░░░░░░░�
  Last Updated on 15/10/2021
 <!--END_SECTION:waka-->
 
+> Weekly development breakdown does not prove my skills or how good am I, it's just my working process.
+
 <details>
   <br />  
   <summary><b>⚡ GitHub stats</b></summary>
@@ -123,5 +125,3 @@ PHP                      1 repo              █░░░░░░░░░░�
   <br />
   <img align="center" alt="Kkyler's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=k-kyler&theme=react&hide_border=true" />
 </details>
-
-> Weekly development breakdown does not prove my skills or how good am I, it's just my working process.
