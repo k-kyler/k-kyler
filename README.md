@@ -115,7 +115,7 @@ PHP                      1 repo              █░░░░░░░░░░�
  Last Updated on 15/10/2021
 <!--END_SECTION:waka-->
 
-> Weekly development breakdown does not prove my skills or how good am I, it's just my working process.
+NOTE: Weekly development breakdown does not prove my skills or how good am I, it's just my working process.
 
 <details>
   <br />  
