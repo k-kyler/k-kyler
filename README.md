@@ -115,11 +115,6 @@ PHP                      1 repo              █░░░░░░░░░░�
  Last Updated on 15/10/2021
 <!--END_SECTION:waka-->
 
-<!-- <details>
-  <summary><b>🤟 Top languages</b></summary>
-  <img align="center" alt="Kkyler's Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-kyler&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" />
-</details> -->
-
 <details>
   <br />  
   <summary><b>⚡ GitHub stats</b></summary>
@@ -129,7 +124,4 @@ PHP                      1 repo              █░░░░░░░░░░�
   <img align="center" alt="Kkyler's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=k-kyler&theme=react&hide_border=true" />
 </details>
 
-<!-- <details>
-  <summary><b>💪 Streak stats</b></summary>
-  <img align="center" alt="Kkyler's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=k-kyler&theme=react&hide_border=true" />
-</details> -->
+> Weekly development breakdown does not prove my skills or how good am I, it's just my working process.
