@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-kyler&label=Views&color=0e75b6&style=flat" alt="k-kyler" /> </p>
 
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />, I'm Quang Khai - aka k-kyler</h1>
-<p align="center">I'm a passionate software developer, love developing web with React, TypeScript and Node.</p> 
+<p align="center">I'm a passionate software developer, love building web app with React, TypeScript and Node.</p> 
 
 <p align="center">
   <img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="80%" />
