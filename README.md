@@ -4,7 +4,7 @@
 <p align="center">As a software developer, I love learning new technologies and programming great application.</p> 
 
 <p align="center">
-  <img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="75%" />
+  <img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="100%" />
 </p>
 
 <h3 align="left">Connect with me</h3>
