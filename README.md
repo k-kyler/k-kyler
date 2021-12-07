@@ -1,4 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-kyler&label=Views&color=0e75b6&style=flat" alt="k-kyler" /> </p>
+
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> -->
 <h1 align="center">Hi there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30px" />, I'm Quang Khai - aka k-kyler</h1>
 <p align="center">As a software developer, I love learning new technologies and programming great application.</p> 
