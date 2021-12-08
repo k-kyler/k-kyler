@@ -32,7 +32,7 @@
   <img align="center" alt="MongoDB" width="33px" src="https://img.icons8.com/color/452/mongodb.png" />
   <img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="33" />
   <img align="center" alt="C#" width="33px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-<!--   <img align="center" alt=".NET Core" width="33px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" />  -->
+  <img align="center" alt=".NET Core" width="33px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" /> 
 <!--   <img align="center" alt="Postgresql" width="33px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" /> -->
   <img align="center" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="33" />
   <img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" alt="netlify" width="33" />
