@@ -19,7 +19,7 @@
 [![Codesandbox Badge](https://img.shields.io/badge/Codesandbox-000?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.com/k-kyler)
 [![Hackerrank Badge](https://img.shields.io/badge/Hackerrank-39424e?style=for-the-badge&logo=hackerrank&logoColor=1ba94c)](https://www.hackerrank.com/Kkyler)
 
-<h3 align="left">Programming languages and tools I have used</h3>
+<h3 align="left">Programming languages and tools</h3>
 <p>
   <img align="center" alt="JavaScript" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
   <img align="center" alt="TypeScript" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
