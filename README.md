@@ -27,7 +27,8 @@
   <img align="center" alt="Material UI" width="33px" src="https://opencollective-production.s3.us-west-1.amazonaws.com/ada636e0-395b-11ea-8ab7-b3f0317bbc7c.png" />
   <img align="center" alt="Bootstrap" width="33px" src="https://img.icons8.com/color/452/bootstrap.png" />
   <img align="center" src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="33" />
-  <img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="33" />
+  <img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind css" width="33" />
+  <img align="center" alt="Sass" width="33px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
   <img align="center" alt="Node.js" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
   <img align="center" alt="MongoDB" width="33px" src="https://img.icons8.com/color/452/mongodb.png" />
   <img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="33" />
@@ -38,7 +39,7 @@
   <img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" alt="netlify" width="33" />
   <img align="center" alt="Visual Studio Code" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <img align="center" alt="Figma" width="33px" src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" />
-  <img align="center" alt="Postman" width="33px" src="https://iconape.com/wp-content/png_logo_vector/postman.png" />
+  <img align="center" alt="Postman" width="33px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
   <img align="center" alt="Docker" width="33px" src="https://www.docker.com/sites/default/files/social/docker_facebook_share.png" />
   <img align="center" alt="Linux" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
   <img align="center" alt="Git" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
