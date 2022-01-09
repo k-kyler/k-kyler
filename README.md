@@ -35,7 +35,7 @@
   <img align="center" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="33" />
   <img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" alt="netlify" width="33" />
   <img align="center" alt="Visual Studio Code" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img align="center" alt="Figma" width="33px" src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" />
+<!--   <img align="center" alt="Figma" width="33px" src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" /> -->
   <img align="center" alt="Postman" width="33px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
   <img align="center" alt="Docker" width="33px" src="https://www.docker.com/sites/default/files/social/docker_facebook_share.png" />
   <img align="center" alt="Linux" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
