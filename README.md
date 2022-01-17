@@ -38,7 +38,6 @@
 <!--   <img align="center" alt="Figma" width="33px" src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" /> -->
   <img align="center" alt="Postman" width="33px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
   <img align="center" alt="Docker" width="33px" src="https://www.docker.com/sites/default/files/social/docker_facebook_share.png" />
-  <img align="center" alt="Linux" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
   <img align="center" alt="Git" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
   <img align="center" alt="Terminal" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </p>
