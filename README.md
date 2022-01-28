@@ -18,7 +18,7 @@
 [![Codesandbox Badge](https://img.shields.io/badge/Codesandbox-000?style=flat&logo=codesandbox&logoColor=white)](https://codesandbox.com/k-kyler)
 [![Hackerrank Badge](https://img.shields.io/badge/Hackerrank-39424e?style=plastiflat&logo=hackerrank&logoColor=1ba94c)](https://www.hackerrank.com/Kkyler)
 
-<h3 align="left">Tech stack</h3>
+<h3 align="left">Tech stacks and tools</h3>
 
 ![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
