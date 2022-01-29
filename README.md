@@ -132,5 +132,3 @@ PHP                      1 repo              █░░░░░░░░░░�
   <br />
   <img align="center" alt="Kkyler's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=k-kyler&theme=react&hide_border=true" />
 </details>
-
-NOTE: Weekly development breakdown and stats don't prove my skills or how good am I, it's just my working process :)
