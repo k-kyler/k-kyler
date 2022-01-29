@@ -16,7 +16,7 @@
 
 [![Codepen Badge](https://img.shields.io/badge/Codepen-f1f2f5?style=flat&logo=codepen&logoColor=black)](https://codepen.io/k-kyler)
 [![Codesandbox Badge](https://img.shields.io/badge/Codesandbox-000?style=flat&logo=codesandbox&logoColor=white)](https://codesandbox.com/k-kyler)
-[![Hackerrank Badge](https://img.shields.io/badge/Hackerrank-39424e?style=plastiflat&logo=hackerrank&logoColor=1ba94c)](https://www.hackerrank.com/Kkyler)
+[![HackerRank Badge](https://img.shields.io/badge/HackerRank-39424e?style=plastiflat&logo=hackerrank&logoColor=1ba94c)](https://www.hackerrank.com/Kkyler)
 
 <h3 align="left">Tech stacks and tools</h3>
 
