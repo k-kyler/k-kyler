@@ -4,7 +4,7 @@
 <p align="center">As a software developer, I love learning new technologies and programming great things.</p> 
 
 <p align="center">
-  <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="70%" />
+  <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="80%" />
 </p>
 
 <h3 align="left">Connect with me</h3>
