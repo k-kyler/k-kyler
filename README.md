@@ -34,10 +34,10 @@
 ![MUI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=mui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
 ![Styled Components](https://img.shields.io/badge/Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white)
-<!-- ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)  -->
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) 
 <!-- ![Next JS](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)  -->
 
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 
 
