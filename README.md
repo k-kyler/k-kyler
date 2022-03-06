@@ -10,7 +10,6 @@
 <h3 align="left">Connect with me</h3>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-21a3e2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/imkhai)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&logoColor=white)](https://fb.com/quangkhai.005)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-ffd400?style=flat&logo=twitter&logoColor=black)](https://twitter.com/kkyler05)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d93025?style=flat&logo=gmail&logoColor=white)](mailto:khaiquang690@gmail.com)
 
