@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-kyler&label=Visitors count&color=0e75b6&style=flat" alt="k-kyler" /> </p>
 
 <h1 align="center">Hi there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="5%" />, I'm Quang Khai (Kyler)</h1>
-<p align="center">As a software developer, I love learning new technologies and programming great things.</p> 
+<p align="center">As a software engineer, I love learning new technologies and programming great things.</p> 
 
 <br />
 
