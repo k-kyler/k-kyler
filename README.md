@@ -1,10 +1,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-kyler&label=Visitors count&color=0e75b6&style=flat" alt="k-kyler" /> </p>
 
-<h1 align="center">Hi there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30px" />, I'm Quang Khai (Kyler)</h1>
+<h1 align="center">Hi there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="5%" />, I'm Quang Khai (Kyler)</h1>
 <p align="center">As a software developer, I love learning new technologies and programming great things.</p> 
 
 <p align="center">
-  <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="100%" />
+  <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="70%" />
 </p>
 
 <h3 align="left">Connect with me</h3>
