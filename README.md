@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-kyler&label=Visitors&color=0e75b6&style=flat" alt="k-kyler" /> </p>
 
-<h1 align="center">Hi there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="5%" />, I'm Quang Khai (Kyler)</h1>
+<h1 align="center">Hi there <img src="https://c.tenor.com/eT_e-q0D5xoAAAAi/long-livethe-blob-sunglasses.gif" width="50px" />, I'm Quang Khai (Kyler)</h1>
 <p align="center">As a software engineer, I love learning new technologies and programming great things.</p> 
 
 <br />
