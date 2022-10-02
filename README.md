@@ -95,13 +95,14 @@ Sunday       226 commits    █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               50 mins             ████████████████████████░   97.84% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.16%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  51 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      51 mins             █████████████████████████   100.0%
 
 ```
 
@@ -118,7 +119,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2022 02:59:14 UTC
+ Last Updated on 02/10/2022 02:45:14 UTC
 <!--END_SECTION:waka-->
 
 <details>
