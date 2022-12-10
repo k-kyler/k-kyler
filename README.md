@@ -9,14 +9,13 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-21a3e2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/imkhai)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/quangkhai.005/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-ffd400?style=flat&logo=twitter&logoColor=black)](https://twitter.com/kkyler05)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d93025?style=flat&logo=gmail&logoColor=white)](mailto:khaiquang690@gmail.com)
 
 <h3 align="left">See me on</h3>
 
 [![Codepen Badge](https://img.shields.io/badge/Codepen-f1f2f5?style=flat&logo=codepen&logoColor=black)](https://codepen.io/k-kyler)
-[![CodeSandbox Badge](https://img.shields.io/badge/CodeSandbox-black?style=flat&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/K-Kyler)
 [![HackerRank Badge](https://img.shields.io/badge/HackerRank-39424e?style=plastiflat&logo=hackerrank&logoColor=1ba94c)](https://www.hackerrank.com/Kkyler)
+[![Codewars Badge](https://img.shields.io/badge/Codewars-d93025?style=plastiflat&logo=codewars&logoColor=black)](https://www.codewars.com/users/k-kyler)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17881094/kkyler)
 
 <h3 align="left">Tech stacks and tools</h3>
