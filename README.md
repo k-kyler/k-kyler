@@ -46,7 +46,7 @@
 <h3>Weekly development breakdown</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-873%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-874%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-87%20Thousand%20lines%20of%20code-blue)
 
@@ -89,10 +89,10 @@ Sunday       161 commits    █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 13 mins        █████████████░░░░░░░░░░░░   51.98% 
-TypeScript               56 mins             ██████████░░░░░░░░░░░░░░░   39.92% 
+JavaScript               1 hr 13 mins        █████████████░░░░░░░░░░░░   51.93% 
+TypeScript               56 mins             ██████████░░░░░░░░░░░░░░░   39.98% 
 Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.8% 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.71% 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.7% 
 Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59%
 
 🔥 Editors: 
@@ -116,7 +116,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/12/2022 01:31:40 UTC
+ Last Updated on 17/12/2022 01:30:54 UTC
 <!--END_SECTION:waka-->
 
 <details>
