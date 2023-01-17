@@ -89,14 +89,13 @@ Sunday       161 commits    █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     14 mins             ███████████████████░░░░░░   76.99% 
-Other                    4 mins              █████░░░░░░░░░░░░░░░░░░░░   23.01%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      18 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -113,7 +112,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/01/2023 01:40:33 UTC
+ Last Updated on 17/01/2023 01:41:11 UTC
 <!--END_SECTION:waka-->
 
 <details>
