@@ -40,7 +40,6 @@
 
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-4D4D4D?style=flat&logo=windows%20terminal&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 <h3>Weekly development breakdown</h3>
