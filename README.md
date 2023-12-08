@@ -44,6 +44,8 @@
 <h3>Weekly development breakdown</h3>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C104%20hrs%2031%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -105,7 +107,7 @@ Pug                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/12/2023 01:17:00 UTC
+ Last Updated on 08/12/2023 01:17:27 UTC
 <!--END_SECTION:waka-->
 
 <details>
