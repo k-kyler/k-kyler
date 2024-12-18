@@ -50,8 +50,6 @@
 
 > 📦 155.6 kB Used in GitHub's Storage 
  > 
-> 🏆 155 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 24 Public Repositories 
@@ -105,7 +103,7 @@ Pug                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/12/2024 01:51:02 UTC
+ Last Updated on 18/12/2024 01:48:05 UTC
 <!--END_SECTION:waka-->
 
 <details>
