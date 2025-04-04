@@ -5,17 +5,6 @@
 
 <br />
 
-<h3 align="left">Connect with me</h3>
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d93025?style=flat&logo=gmail&logoColor=white)](mailto:khaiquang690@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-21a3e2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/imkhai)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-ffd400?style=flat&logo=twitter&logoColor=black)](https://twitter.com/kkyler05)
-
-<h3 align="left">See me on</h3>
-
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17881094/kkyler)
-[![Codepen Badge](https://img.shields.io/badge/Codepen-f1f2f5?style=flat&logo=codepen&logoColor=black)](https://codepen.io/k-kyler)
-
 <h3 align="left">Tech stacks and tools</h3>
 
 ![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
