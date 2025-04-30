@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=k-kyler&label=Visitors&color=0e75b6&style=flat" alt="k-kyler's visitors" />
 </p>
 
-<h1><img src="https://c.tenor.com/eT_e-q0D5xoAAAAi/long-livethe-blob-sunglasses.gif" width="50px" /> I'm Khai</h1>
+<h1>I'm Khai <img src="https://c.tenor.com/eT_e-q0D5xoAAAAi/long-livethe-blob-sunglasses.gif" width="50px" /></h1>
 
 I really enjoy exploring new technologies and creating amazing things through programming. As a full-stack software engineer, I’m excited to continue growing my knowledge in the fields of AI and Data Science!
 
