@@ -12,4 +12,4 @@ I enjoy exploring new technologies and creating amazing things through programmi
 
 ### AI Pet Projects
 
-[![Linear Regression](https://github-readme-stats.vercel.app/api/pin/?username=k-kyler&repo=linear-regression&description_lines_count=3)](https://github.com/k-kyler/linear-regression)
+[![Linear Regression](https://github-readme-stats.vercel.app/api/pin/?username=k-kyler&repo=linear-regression&description_lines_count=2)](https://github.com/k-kyler/linear-regression)
