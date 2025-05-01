@@ -19,3 +19,7 @@ I enjoy exploring new technologies and creating amazing things through programmi
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/k-kyler/k-kyler/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/k-kyler/k-kyler/output/pacman-contribution-graph.svg">
 </picture>
+
+### Machine Learning Pet Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k-kyler&repo=linear-regression)](https://github.com/k-kyler/linear-regression)
