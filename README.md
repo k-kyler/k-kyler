@@ -22,4 +22,4 @@ I enjoy exploring new technologies and creating amazing things through programmi
 
 ### Machine Learning Pet Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k-kyler&repo=linear-regression)](https://github.com/k-kyler/linear-regression)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k-kyler&repo=linear-regression&show_owner=true)](https://github.com/k-kyler/linear-regression)
