@@ -4,7 +4,11 @@
 
 <h1>I'm Khai <img src="https://c.tenor.com/eT_e-q0D5xoAAAAi/long-livethe-blob-sunglasses.gif" width="50px" /></h1>
 
-I enjoy exploring new technologies and creating amazing things through programming. Recently, I’ve also been diving deeper into AI and Data Science to grow my skill set and explore where software and intelligent systems come together.
+I'm a Sub Technical Lead at OVEN.
+
+I enjoy exploring new technologies and creating amazing things through programming. Recently, I've also been diving deeper into AI / Data Science to grow my skill set and explore where software and intelligent systems come together.
+
+I'm studying MSc Computer Science at Ton Duc Thang University.
 
 ### Tech stacks and tools
 
