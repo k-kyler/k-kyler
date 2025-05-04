@@ -17,3 +17,4 @@ I'm studying MSc Computer Science at Ton Duc Thang University.
 ### AI Pet Projects
 
 [![Linear Regression](https://github-readme-stats.vercel.app/api/pin/?username=k-kyler&repo=linear-regression&description_lines_count=2)](https://github.com/k-kyler/linear-regression)
+[![Neural Network](https://github-readme-stats.vercel.app/api/pin/?username=k-kyler&repo=neural-network&description_lines_count=2)](https://github.com/k-kyler/neural-network)
